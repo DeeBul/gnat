@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+gnat-gpl-2014-x86-linux-bin.tar.gz filter=lfs diff=lfs merge=lfs -text
